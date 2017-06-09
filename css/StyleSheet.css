@@ -1,0 +1,174 @@
+﻿/*NavBar*/
+.navbar-nav>.active> a, 
+.navbar-nav>.active> a:focus, 
+.navbar-nav>.active> a:hover 
+{
+    background:rgb(230, 195, 0);
+}
+.navbar-nav>li>a:focus
+{  
+    background:rgb(230, 195, 0);
+}
+.navBar 
+{
+    padding-right:15%;
+    padding-left:15%;
+}
+.blackFont
+{
+    color:black;
+}
+.largeFont
+{
+    font-size:30px;
+}
+.boldFont
+{
+    font-weight:bold;
+}
+.yelloFont
+{
+    color:rgb(230, 195, 0);
+}
+
+
+/*londonBG*/
+.londonBG {
+    background-image: url('../images/london.jpg');
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+}
+.whiteFont
+{
+    color:white;
+}
+.blackBG
+{
+    background-color:rgba(0, 0, 0, 0.5);
+    margin-left:55%;
+    margin-top:10%;
+    padding:3%;
+}
+
+
+/*yelloBG*/
+.yelloBG
+{
+    background:rgb(230, 184, 0);
+    padding-top:40px;
+    padding-bottom:40px; 
+    clip-path: polygon(0 0, 130% 0, 100% 70%, 0 100%); 
+}
+
+/*White Div*/
+.WhiteDiv
+{
+    padding-bottom:80px;
+    background-color:white;
+}
+.imgWhiteDiv1
+{
+    margin-top:60px;
+    margin-left:35%;
+    max-width: 30%; 
+    height: auto;
+}
+.imgWhiteDiv22
+{
+    margin-top:23px;
+    margin-left:30%;
+    max-width: 39%; 
+    height: auto;
+}
+.imgWhiteDiv33
+{
+    margin-left:28%;
+    max-width: 44%; 
+    height: auto;
+}
+
+
+/*image Carousel*/
+/*grayDiv*/
+.grayDiv
+{
+    background-color:rgb(234, 234, 225);
+    padding-top:40px;
+    padding-bottom:60px;
+    margin-bottom:-20px;
+    margin-top:-40px;
+    height:50%;
+}
+#myCarousel
+{
+    width: 30%; 
+    margin: 0 auto;
+    margin-top:40px;
+}
+.boldFont
+{
+    font-weight:bold;
+}
+
+
+/*WhiteDiv2*/
+.WhiteDiv2
+{
+    padding-top:60px;
+    padding-bottom:70px;
+}
+.imgWhiteDiv2
+{
+    margin-left:17%;
+    margin-top:50px;
+    max-width: 70%; 
+    height: auto;
+}
+.descripeImg
+{
+    background:rgb(230, 184, 0);
+    margin-left:17%;
+    padding-top:4px;
+    padding-bottom:2px;
+    max-width: 70%; 
+    height: auto;
+}
+
+
+/*yelloDiv2*/
+.yelloDiv2
+{
+    background:rgb(230, 184, 0);
+    padding:18%;
+    padding-top:80px;
+    padding-bottom:40px;
+}
+
+
+
+/*blackDiv*/
+.blackDiv
+{
+    background-color:rgb(26, 26, 26);
+    padding-top:20px;
+    padding-bottom:30px;
+}
+hr
+{
+    width:25%;
+}
+.blackDivText
+{
+    padding-top:20px;
+}
+
+
+/*footer*/
+.yelloFooter
+{
+    background-color:rgb(230, 184, 0);
+    padding:20px;
+}
+
+
